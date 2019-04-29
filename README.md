@@ -2,7 +2,7 @@
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
-[![Build Status](https://dev.azure.com/dsb007150074/Deep_test/_apis/build/status/dsb00715.pipelines-python-django?branchName=master)](https://dev.azure.com/dsb007150074/Deep_test/_build/latest?definitionId=1&branchName=master)[![Build Status](https://dev.azure.com/dsb007150074/Deep_test/_apis/build/status/dsb00715.pipelines-python-django?branchName=master)](https://dev.azure.com/dsb007150074/Deep_test/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/dsb007150074/Deep_test/_apis/build/status/dsb00715.pipelines-python-django?branchName=master)](https://dev.azure.com/dsb007150074/Deep_test/_build/latest?definitionId=1&branchName=master)
 
 | Example | Build status |
 |---------|--------------|
